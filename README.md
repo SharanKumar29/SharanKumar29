@@ -1,5 +1,5 @@
-<h1 align="center">Sharan Kumar</h1>
-<h3 align="center">||Programmer||</h3>
+<h1 align="center">SHARAN KUMAR</h1>
+<h3 align="center">Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharankumar29&label=Profile%20views&color=0e75b6&style=flat" alt="sharankumar29" /> </p>
 
@@ -12,13 +12,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharank44241622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharank44241622" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sharan-kumar-421b54205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharan-kumar-421b54205/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/sharan-kumar-421b54205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sharan-kumar-421b54205" height="30" width="40" /></a>
 <a href="https://fb.com/sharankumar2029@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharankumar2029@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/sharan_k.u.m.a.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharan_k.u.m.a.r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sharankumar2029@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharankumar2029@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/sharan_k.u.m.a.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharan_k.u.m.a.r/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucirltvltu7cd3o06x6tzmeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucirltvltu7cd3o06x6tzmeq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sharan2929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharan2929" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharankumar2029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharankumar2029" height="30" width="40" /></a>
-<a href="https://discord.gg/sharankumar2029@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharankumar2029@gmail.com" height="30" width="40" /></a>
+<a href="https://discord.gg/sharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
